@@ -45,7 +45,7 @@
 		</div>
 			<table>
 				<tr>
-					<td><figure><img src="w3images/Amanda.jpeg" height=auto width="400"><figcaption>Amanda Knights</figcaption></figure></td>
+					<td><figure><img src="Amanda.jpeg" height=auto width="400"><figcaption>Amanda Knights</figcaption></figure></td>
 				</tr>
 					<tr><td><p>Our site got started when Amanda Knights found that she was frequently looking up data from a variety of databases. <br>Amanda decided to start sharing some of this data with other social researchers. </p></td>
 				</tr>
@@ -60,7 +60,7 @@
 		</div>
 		<table>
 			<tr>
-				<td><img src="w3images/Logo.png" height=auto width="120"></td>
+				<td><img src="Logo.png" height=auto width="120"></td>
 			</tr>
 		</table>
 		<div><p>88 Spider Street<br>Cobwebb, Vic 3000 <br>Australia<br></p></div>
