@@ -10,7 +10,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-center" style="max-width:1500px">
-  <img class="w3-image" src="w3images/header1.jpg" alt="Me" width="900" height="250">
+  <img class="w3-image" src="header1.jpg" alt="Me" width="900" height="250">
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">DELTA TRACK</h1>
     <h5 class="w3-hide-large" style="white-space:nowrap">DELTA TRACK</h5>
@@ -55,7 +55,7 @@
 		</div>
 			<table>
 				<tr>
-					<td><figure><img src="w3images/Amanda.jpeg" height=auto width="400"><figcaption>Amanda Knights</figcaption></figure></td>
+					<td><figure><img src="Amanda.jpeg" height=auto width="400"><figcaption>Amanda Knights</figcaption></figure></td>
 		
 					<td><p>Our site got started when Amanda Knights found that she was frequently looking up data from a variety of databases.<p>
                                              <p> <br>Amanda decided to start sharing some of this data with other social researchers. </p>
@@ -70,7 +70,7 @@
     <hr>
     <table>
 			<tr>
-				<td><img src="w3images/Logo.png" height=auto width="120"></td>
+				<td><img src="Logo.png" height=auto width="120"></td>
 			</tr>
 		</table>
 		<div><p>88 Spider Street<br>Cobwebb, Vic 3000 <br>Australia<br></p></div>
